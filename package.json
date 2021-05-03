@@ -1,7 +1,7 @@
 {
-  "author": "Rob Parham",
+  "author": "Mar0xy",
   "bugs": {
-    "url": "https://github.com/pamblam/mysql-import/issues"
+    "url": "https://github.com/mar0xy/mysql2-import/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -21,7 +21,7 @@
   "engines": {
     "node": ">5.0.0"
   },
-  "homepage": "https://github.com/pamblam/mysql-import#readme",
+  "homepage": "https://github.com/mar0xy/mysql2-import#readme",
   "keywords": [
     "nodejs",
     "mysql",
@@ -34,7 +34,7 @@
   "name": "mysql2-import",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pamblam/mysql-import.git"
+    "url": "git+https://github.com/mar0xy/mysql2-import.git"
   },
   "scripts": {
     "build": "grunt",
