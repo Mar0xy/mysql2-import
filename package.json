@@ -5,7 +5,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "mysql": "^2.18.1"
+    "mysql2": "^2.2.5"
   },
   "deprecated": false,
   "description": "Import .sql into a MySQL database with Node.",
@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "main": "mysql-import.js",
-  "name": "mysql-import",
+  "name": "mysql2-import",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pamblam/mysql-import.git"
