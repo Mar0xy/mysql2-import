@@ -28,13 +28,13 @@ Import MySQL files with Node!
  - [Contributing](#contributing)
 
 ## Install
-via  [NPM](https://www.npmjs.com/package/mysql-import):
+via  [NPM](https://www.npmjs.com/package/mysql2-import):
 ```
-$ npm install --save-dev mysql-import
+$ npm install --save-dev mysql2-import
 ```
-Via [Github](https://github.com/Pamblam/mysql-import/):
+Via [Github](https://github.com/Mar0xy/mysql2-import/):
 ```
-git clone https://github.com/Pamblam/mysql-import.git
+git clone https://github.com/Mar0xy/mysql2-import.git
 ```
 
 ## TLDR:
@@ -45,7 +45,7 @@ const user = 'root';
 const password = 'password';
 const database = 'mydb';
 
-const Importer = require('mysql-import');
+const Importer = require('mysql2-import');
 const importer = new Importer({host, user, password, database});
 
 // New onProgress method, added in version 5.0!
