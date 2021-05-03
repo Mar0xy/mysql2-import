@@ -1,4 +1,6 @@
 
+## Based on Pamblam's mysql-import just edited to work for mysql2
+
 
 <p align="center">
 	<img src='https://i.imgur.com/AOfuTLA.png'>
